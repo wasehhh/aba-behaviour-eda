@@ -1,7 +1,6 @@
 # ABA Behavior EDA
 
-Exploratory data analysis of problem behavior in autistic children based on daily factors
-such as sleep, noise, routine changes, and setting.
+Exploratory data analysis of problem behavior in autistic children based on daily factors such as sleep, noise, routine changes, and setting.
 
 ## Objective
 
